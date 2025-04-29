@@ -1,1 +1,2 @@
 # SpendWise
+**SpendWise** es una aplicación diseñada para ayudar a los usuarios a registrar, gestionar y analizar sus finanzas personales de manera eficiente. Ofrece funcionalidades tanto manuales como automatizadas mediante el uso de tecnologías de Reconocimiento Óptico de Caracteres (OCR) e Inteligencia Artificial (IA), facilitando el ingreso de datos financieros a partir de imágenes de tickets y facturas.
